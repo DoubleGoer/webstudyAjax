@@ -1,0 +1,12 @@
+#MidCat ul li{
+  display: inline;
+  margin-right: 50px
+}
+#MidCat ul{
+  text-align: center;
+  padding-bottom: 20px;
+  border-bottom: 2px solid gray;
+}
+#imgex{
+  text-align: center;
+}
